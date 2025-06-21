@@ -29,7 +29,7 @@ plt.title('Monthly Sales Trend')
 plt.xlabel('Month')
 plt.ylabel('Total Sales in ₹')
 plt.tight_layout()
-plt.savefig("monthly_sales_trend.png")  # 🔥 Optional
+plt.savefig("monthly_sales_trend.png") # 🔥 Save as PNG
 plt.show()
 
 # Plot 3: Top 5 Products by Total Sales
