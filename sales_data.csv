@@ -1,0 +1,6 @@
+date,region,product,units_sold,unit_price,total_sales
+2024-01-01,North,Product A,120,500,60000
+2024-01-02,South,Product B,90,300,27000
+2024-01-03,East,Product C,75,400,30000
+2024-01-04,West,Product A,100,500,50000
+2024-01-05,North,Product B,85,300,25500
